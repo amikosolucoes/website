@@ -7,7 +7,7 @@ $recipient = "contato@amikosolucoes.com";
 $subject = "Contato Site Amiko";
 $mailheader = "From: $email \r\n";
 
-mail($recipient, $subject, $formcontent, implode("\r\n", str_split($mailheader))) or die("Error!");
+mail($recipient, $subject, $formcontent, implode("\r\n", str_split($mailheader))) or die("Desculpe, algo deu errado. Por favor, envie sua menssagem para: contato@amikosolucoes.com");
 echo '<div class="form-group">
 <div style="background: #fff;padding-top:200px;color:#fff;">
     <div class="container" style="position: static;max-width: 1200px;margin: 0 auto;background: #131d33;padding: 100px 15px;text-align: center;">
