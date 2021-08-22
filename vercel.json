@@ -3,5 +3,9 @@
       "api/*.php": {
         "runtime": "vercel-php@0.4.0"
       }
-    }
+    },
+    "redirects": [
+      { "source": "/privacy", "destination": "/privacy.html" },
+      { "source": "/terms", "destination": "/terms.html" }
+    ]
   }
