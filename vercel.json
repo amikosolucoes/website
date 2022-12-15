@@ -5,6 +5,7 @@
       }
     },
     "redirects": [
+      { "source": "/LGPD", "destination": "/privacy.html" },
       { "source": "/privacy", "destination": "/privacy.html" },
       { "source": "/terms", "destination": "/terms.html" }
     ]
