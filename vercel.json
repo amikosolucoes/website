@@ -9,6 +9,7 @@
       { "source": "/lgpd", "destination": "/privacy.html" },
       { "source": "/privacy", "destination": "/privacy.html" },
       { "source": "/terms", "destination": "/terms.html" },
-      { "source": "/patient-questionnaire", "destination": "/patient-questionnaire.html" }
+      { "source": "/patient-questionnaire", "destination": "/patient-questionnaire.html" },
+      { "source": "/report", "destination": "/report-questionnaire.html" }
     ]
   }
