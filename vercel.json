@@ -10,7 +10,7 @@
       { "source": "/privacy", "destination": "/privacy.html" },
       { "source": "/terms", "destination": "/terms.html" },
       { "source": "/patient-questionnaire", "destination": "/patient-questionnaire.html" },
-      { "source": "/report", "destination": "/report-questionnaire.html" }
+      { "source": "/report", "destination": "/report-questionnaire.html" },
       { "source": "/manager", "destination": "/management-report.html" }
     ]
   }
