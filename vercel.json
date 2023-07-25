@@ -11,6 +11,7 @@
       { "source": "/terms", "destination": "/terms.html" },
       { "source": "/patient-questionnaire", "destination": "/patient-questionnaire.html" },
       { "source": "/report", "destination": "/report-questionnaire.html" },
-      { "source": "/manager", "destination": "/management-report.html" }
+      { "source": "/manager", "destination": "/management-report.html" },
+      { "source": "/gerencial-unimed", "destination": "/management-report-unimed.html" }
     ]
   }
