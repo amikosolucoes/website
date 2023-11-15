@@ -6,9 +6,8 @@
       { "source": "/terms", "destination": "/terms.html" },
       { "source": "/patient-questionnaire", "destination": "/patient-questionnaire.html" },
       { "source": "/report", "destination": "/report-questionnaire.html" },
-      { "source": "/manager", "destination": "/management-report.html" },
-      { "source": "/gerencial-unimed", "destination": "/management-report-unimed.html" },
-      { "source": "/gerencial-hcpa", "destination": "/management-report-hcpa.html" },
+      { "source": "/gerencial", "destination": "/management-report.html" },
+      { "source": "/gerencial-hsl", "destination": "/management-report-hsl.html" },
       { "source": "/hcn-carb0", "destination": "/hcn-carb0.html" }
     ]
   }
